@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Tuấn subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Tech Blogs" title="Tech Blogs">
+            <outline type="rss" text="Blog Hoc Tap" title="Blog Hoc Tap" xmlUrl="http://bloghoctap.com/feed" htmlUrl="http://bloghoctap.com"/>
+            <outline type="rss" text="Ruby Pigeon" title="Ruby Pigeon" xmlUrl="https://www.rubypigeon.com/feed.xml" htmlUrl="http://www.rubypigeon.com/"/>
+            <outline type="rss" text="EquiValent" title="EquiValent" xmlUrl="https://blog.eq8.eu/feed.xml" htmlUrl="https://blog.eq8.eu/"/>
+            <outline type="rss" text="Code Without Rules" title="Code Without Rules" xmlUrl="https://codewithoutrules.com/atom.xml" htmlUrl="https://codewithoutrules.com/"/>
+            <outline type="rss" text="Karol Galanciak" title="Karol Galanciak" xmlUrl="http://karolgalanciak.com/atom.xml" htmlUrl="https://karolgalanciak.com/"/>
+            <outline type="rss" text="The Full Snack Blog" title="The Full Snack Blog" xmlUrl="https://thefullsnack.com/rss.xml" htmlUrl="https://thefullsnack.com"/>
+            <outline type="rss" text="Nikita Voloboev - Medium" title="Nikita Voloboev - Medium" xmlUrl="https://medium.com/feed/@nikitavoloboev" htmlUrl="https://medium.com/@nikitavoloboev?source=rss-2a6397e4339e------2"/>
+            <outline type="rss" text="Nghệ thuật Coding" title="Nghệ thuật Coding" xmlUrl="https://nghethuatcoding.com/feed/" htmlUrl="https://nghethuatcoding.com"/>
+            <outline type="rss" text="RubyTapas" title="RubyTapas" xmlUrl="https://www.rubytapas.com/feed/" htmlUrl="https://www.rubytapas.com"/>
+            <outline type="rss" text="Rebased Blog" title="Rebased Blog" xmlUrl="http://blog.rebased.pl/feed.xml" htmlUrl="https://blog.rebased.pl/"/>
+            <outline type="rss" text="alyssa.is" title="alyssa.is" xmlUrl="https://alyssa.is/feed.xml" htmlUrl="http://alyssa.is/"/>
+            <outline type="rss" text="Moesif - API Design" title="Moesif - API Design" xmlUrl="https://www.moesif.com/blog/feed.xml" htmlUrl="https://www.moesif.com/blog/"/>
+            <outline type="rss" text="AirBlade Software - Vim" title="AirBlade Software - Vim" xmlUrl="https://airbladesoftware.com/feed.xml" htmlUrl="http://airbladesoftware.com/notes"/>
+            <outline type="rss" text="Kipalog" title="Kipalog" xmlUrl="https://kipalog.com/posts/rss?api_key=hkvlswttfysta3j62co9z2qx68bwvi" htmlUrl="http://kipalog.com"/>
+            <outline type="rss" text="manhhomienbienthuy's space" title="manhhomienbienthuy's space" xmlUrl="https://manhhomienbienthuy.bitbucket.io/feeds/all.atom.xml" htmlUrl="https://manhhomienbienthuy.bitbucket.io/"/>
+            <outline type="rss" text="CSS Wizardry" title="CSS Wizardry" xmlUrl="http://feeds.feedburner.com/csswizardry" htmlUrl="https://csswizardry.com/"/>
+            <outline type="rss" text="Hacker Anonymous Việt Nam" title="Hacker Anonymous Việt Nam" xmlUrl="https://anonymousvn.org/feed" htmlUrl="https://anonymousvn.org"/>
+            <outline type="rss" text="RubyGarage Blog" title="RubyGarage Blog" xmlUrl="https://rubygarage.org/blog.rss" htmlUrl="https://rubygarage.org/blog.rss"/>
+            <outline type="rss" text="Speedshop - Ruby on Rails performance consulting" title="Speedshop - Ruby on Rails performance consulting" xmlUrl="https://www.speedshop.co/feed.xml" htmlUrl="https://www.speedshop.co/"/>
+            <outline type="rss" text="Dương Ngọc Thái :D " title="Dương Ngọc Thái :D " xmlUrl="http://feeds.feedburner.com/vnhacker" htmlUrl="http://vnhacker.blogspot.com/"/>
+            <outline type="rss" text="Bluz71 - Vim" title="Bluz71 - Vim" xmlUrl="https://bluz71.github.io/feed.xml" htmlUrl="https://bluz71.github.io/"/>
+            <outline type="rss" text="Martian Chronicles, Evil Martians’ team blog" title="Martian Chronicles, Evil Martians’ team blog" xmlUrl="https://evilmartians.com/chronicles.atom" htmlUrl="https://evilmartians.com/chronicles"/>
+            <outline type="rss" text="Tender Lovemaking - Ruby Inside" title="Tender Lovemaking - Ruby Inside" xmlUrl="http://tenderlovemaking.com/atom.xml" htmlUrl="http://tenderlovemaking.com/"/>
+            <outline type="rss" text="Rubyland" title="Rubyland" xmlUrl="http://rubyland.news/feed.rss" htmlUrl="http://www.rubyland.news"/>
+            <outline type="rss" text="RubyFlow" title="RubyFlow" xmlUrl="http://www.rubyflow.com/rss" htmlUrl="http://www.rubyflow.com"/>
+            <outline type="rss" text="Từ coder đến developer – Tôi đi code dạo" title="Từ coder đến developer – Tôi đi code dạo" xmlUrl="https://toidicodedao.com/feed/" htmlUrl="https://toidicodedao.com"/>
+            <outline type="rss" text="Michael Herman" title="Michael Herman" xmlUrl="https://mherman.org/feed.xml" htmlUrl="https://mherman.org/"/>
+            <outline type="rss" text="Airbnb Engineering  - Medium" title="Airbnb Engineering  - Medium" xmlUrl="https://medium.com/feed/airbnb-engineering" htmlUrl="https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4"/>
+            <outline type="rss" text="The Great Code Adventure" title="The Great Code Adventure" xmlUrl="http://www.thegreatcodeadventure.com/rss/" htmlUrl="https://www.thegreatcodeadventure.com/"/>
+            <outline type="rss" text="Coding Horror" title="Coding Horror" xmlUrl="http://feeds.feedburner.com/codinghorror" htmlUrl="https://blog.codinghorror.com/"/>
+            <outline type="rss" text="Ruby Weekly" title="Ruby Weekly" xmlUrl="https://rubyweekly.com/rss/1635eogd" htmlUrl="https://rubyweekly.com/"/>
+        </outline>
+    </body>
+</opml>
