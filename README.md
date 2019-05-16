@@ -1,6 +1,6 @@
 # My macOS
 
-List of applications which I use on my Macbook :D
+List applications which I'm using on my Macbook :D
 
 ### Productivity
 * [Alfred](https://www.alfredapp.com/) - Launcher
