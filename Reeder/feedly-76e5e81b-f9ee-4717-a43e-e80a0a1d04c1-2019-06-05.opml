@@ -36,6 +36,7 @@
             <outline type="rss" text="Airbnb Engineering  - Medium" title="Airbnb Engineering  - Medium" xmlUrl="https://medium.com/feed/airbnb-engineering" htmlUrl="https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4"/>
             <outline type="rss" text="The Great Code Adventure" title="The Great Code Adventure" xmlUrl="http://www.thegreatcodeadventure.com/rss/" htmlUrl="https://www.thegreatcodeadventure.com/"/>
             <outline type="rss" text="Coding Horror" title="Coding Horror" xmlUrl="http://feeds.feedburner.com/codinghorror" htmlUrl="https://blog.codinghorror.com/"/>
+            <outline type="rss" text="Giant Robots Smashing Into Other Giant Robots" title="Giant Robots Smashing Into Other Giant Robots" xmlUrl="http://feeds.feedburner.com/GiantRobotsSmashingIntoOtherGiantRobots" htmlUrl="https://thoughtbot.com/blog"/>
             <outline type="rss" text="Ruby Weekly" title="Ruby Weekly" xmlUrl="https://rubyweekly.com/rss/1635eogd" htmlUrl="https://rubyweekly.com/"/>
         </outline>
     </body>
