@@ -23,6 +23,20 @@
 ### Chrome Apps
 * [Postman](https://www.getpostman.com/) - API development environment.
 
-### Tabs
+### Favorite Tabs
 * [Todoist](https://todoist.com/app) - I'm a big fan of [GTD](https://gettingthingsdone.com/five-steps/) method. I always open 1 Todoist tab to manage my tasks.
 * [Feedly](http://feedly.com) - I use  [Get RSS Feed URL](https://chrome.google.com/webstore/detail/get-rss-feed-url/kfghpdldaipanmkhfpdcjglncmilendn) extension above to get RSS url, add this to [my list rss](https://github.com/ttuan/my-mac-os/tree/master/Reeder) and read them on Feedly tab.
+
+### Custom Search Engines
+A power tool of Chrome. Inspired by [this post](https://thoughtbot.com/blog/make-the-most-of-your-browser-s-address-bar), I create some custom search engine:
+
+| Search Engine  | Keyword  | URL  |
+|---|---|---|
+| My Github Repo  | `gh`  | https://github.com/ttuan/%s  |
+| Current Github Project  | `gp`  | https://github.com/sun/project-name/pulls  |
+| Search History  | `sh`  | chrome://history/#q=%s  |
+| Google Luckky  | `sgl`  | http://www.google.com/search?q=%s&btnI  |
+| Search Gmail | `sgm` | https://mail.google.com/mail/u/0/#search/%s |
+| Google Image | `sgi` |  https://www.google.com/search?site=imghp&tbm=isch&q=%s |
+| Facebook search | `sfb` | https://www.facebook.com/search/top/?q=%s |
+| Youtube Search | `syt` | http://www.youtube.com/results?search_query=%s |
