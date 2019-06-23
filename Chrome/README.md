@@ -40,3 +40,4 @@ A power tool of Chrome. Inspired by [this post](https://thoughtbot.com/blog/make
 | Google Image | `sgi` |  https://www.google.com/search?site=imghp&tbm=isch&q=%s |
 | Facebook search | `sfb` | https://www.facebook.com/search/top/?q=%s |
 | Youtube Search | `syt` | http://www.youtube.com/results?search_query=%s |
+| Phimmoi Search | `spm` | http://www.phimmoi.net/tim-kiem/%s/ |
