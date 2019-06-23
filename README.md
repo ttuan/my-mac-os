@@ -47,7 +47,15 @@ List applications which I'm using on my Macbook :D
 * [Send to kindle](https://www.amazon.com/gp/sendtokindle/pc) - Send ebook to Kindle
 
 
-### Command Line Apps
-* Vim
-* Tmux
-* Kap
+### Terminal Apps
+* [Vim](https://www.vim.org/) + [Tmux](https://github.com/tmux/tmux) + [Tmuxinator](https://github.com/tmuxinator/tmuxinator): Combo for my dev environment. Ref: [my-blog](https://ttuan.github.io/tags/#Vim) or [my-dotfiles](https://github.com/ttuan/dotfiles)
+* [fzf](https://github.com/junegunn/fzf) - Command-line fuzzy finder. Ref: [my fzf.zsh](https://github.com/ttuan/dotfiles/blob/master/zsh/fzf.zsh)
+* [autojump](https://github.com/wting/autojump) - Like `cd`, but ez navigate dir from command line
+* [fd](https://github.com/sharkdp/fd) - Alternative tool to 'find'.
+* [ripgrep](https://github.com/BurntSushi/ripgrep) - Search text for patterns fast.
+* [up](https://github.com/apex/up) - Deploy serverless apps to AWS.
+* [yarn](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management.
+* [wifi-password](https://github.com/rauchg/wifi-password) - Get wifi password of the WIFI you're on.
+* [hugo](https://github.com/gohugoio/hugo) - Fastest framework for building websites.
+* [now](https://github.com/zeit/now-cli) - Real time global deployments served ober HTTP/2
+* Common Tools: [git](https://github.com/git/git), [curl](https://curl.haxx.se/docs/manpage.html)
