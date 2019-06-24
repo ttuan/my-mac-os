@@ -53,6 +53,7 @@ List applications which I'm using on my Macbook :D
 * [autojump](https://github.com/wting/autojump) - Like `cd`, but ez navigate dir from command line
 * [fd](https://github.com/sharkdp/fd) - Alternative tool to 'find'.
 * [ripgrep](https://github.com/BurntSushi/ripgrep) - Search text for patterns fast.
+* [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which correct your previous console command
 * [up](https://github.com/apex/up) - Deploy serverless apps to AWS.
 * [yarn](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management.
 * [wifi-password](https://github.com/rauchg/wifi-password) - Get wifi password of the WIFI you're on.
