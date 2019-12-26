@@ -18,7 +18,8 @@
 * [Chat++](https://chrome.google.com/webstore/detail/chat%20%20-for-chatwork/amhfnpimdfcdcpnchjionbddjjbmofnl) - [Chatwork](http://chatwork.com) Enhancement Toolkit <3.
 * [Ddict](https://chrome.google.com/webstore/detail/ddict-translate-translato/bpggmmljdiliancllaapiggllnkbjocb?hl=vi) - Translate tool.
 * [EverSync](https://chrome.google.com/webstore/detail/eversync-sync-bookmarks-b/iohcojnlgnfbmjfjfkbhahhmppcggdog?hl=vi) - Allow synchronize, restore bookmarks.
-* [Get RSS Feed URL](https://chrome.google.com/webstore/detail/get-rss-feed-url/kfghpdldaipanmkhfpdcjglncmilendn) - Provides links to various RSS?Atom feed of a website.
+* [Get RSS Feed URL](https://chrome.google.com/webstore/detail/get-rss-feed-url/kfghpdldaipanmkhfpdcjglncmilendn) - Provides links to various RSS/Atom feed of a website.
+* [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) - Dark mode for all pages
 
 ### Chrome Apps
 * [Postman](https://www.getpostman.com/) - API development environment.
