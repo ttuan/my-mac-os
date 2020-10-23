@@ -42,3 +42,4 @@ A power tool of Chrome. Inspired by [this post](https://thoughtbot.com/blog/make
 | Facebook search | `sfb` | https://www.facebook.com/search/top/?q=%s |
 | Youtube Search | `syt` | http://www.youtube.com/results?search_query=%s |
 | Phimmoi Search | `spm` | http://www.phimmoi.net/tim-kiem/%s/ |
+| Unfocus address bar for vimium | `u` | javascript: |
