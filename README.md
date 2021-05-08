@@ -12,7 +12,7 @@ List applications which I'm using on my Macbook :D
 * [Reeder](http://reederapp.com/mac/) - RSS Reader
 * [MindNode](https://mindnode.com/) - Interactive Mind Mapping
 * [Typinator](http://www.ergonis.com/products/typinator/) - Text expansions
-* [Karabiner](https://pqrs.org/osx/karabiner/) - Keyboard remapping
+* [Karabiner](https://pqrs.org/osx/karabiner/) - Keyboard remapping, use [goku](https://github.com/yqrashawn/GokuRakuJoudo) for configuration
 * [Keyboard Maestro](https://www.keyboardmaestro.com/main/) - Automation tool
 * [BetterTouchTool](https://www.boastr.net/) - Mac input customizer
 
