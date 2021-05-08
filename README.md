@@ -5,16 +5,17 @@ List applications which I'm using on my Macbook :D
 ### Productivity
 * [Alfred](https://www.alfredapp.com/) - Launcher
 * [Todoist](https://todoist.com/) - Todo Tasks Manager
-* [Evernote](https://evernote.com/) - Notes taking
-* [Fantastical](https://flexibits.com/fantastical) - Calendar
-* [Contexts](https://contexts.co/) - Window switcher
-* [Spectacle](https://www.spectacleapp.com/) - Window control
-* [Reeder](http://reederapp.com/mac/) - RSS Reader
-* [MindNode](https://mindnode.com/) - Interactive Mind Mapping
-* [Typinator](http://www.ergonis.com/products/typinator/) - Text expansions
+* [Notion](https://github.com/yqrashawn/GokuRakuJoudo) - Notes management
 * [Karabiner](https://pqrs.org/osx/karabiner/) - Keyboard remapping, use [goku](https://github.com/yqrashawn/GokuRakuJoudo) for configuration
 * [Keyboard Maestro](https://www.keyboardmaestro.com/main/) - Automation tool
-* [BetterTouchTool](https://www.boastr.net/) - Mac input customizer
+* [Spectacle](https://www.spectacleapp.com/) - Window control
+* ~[Fantastical](https://flexibits.com/fantastical) - Calendar~
+* ~[Contexts](https://contexts.co/) - Window switcher~ - For windows switcher, I
+    use [Karabiner with Keyboard Maestro](https://github.com/ttuan/dotfiles/blob/master/karabiner/karabiner.edn#L77-L89) now.
+* ~[Reeder](http://reederapp.com/mac/) - RSS Reader~ - For rss reader, I use [Feedly](https://feedly.com/) now.
+* [MindNode](https://mindnode.com/) - Interactive Mind Mapping
+* ~[Typinator](http://www.ergonis.com/products/typinator/) - Text expansions~
+* ~[BetterTouchTool](https://www.boastr.net/) - Mac input customizer~
 
 ### Code
 * [iTerm](https://www.iterm2.com/) - Terminal Emulator
