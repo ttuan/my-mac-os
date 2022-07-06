@@ -51,7 +51,7 @@ List applications which I'm using on my Macbook :D
 ### Terminal Apps
 * [Vim](https://www.vim.org/) + [Tmux](https://github.com/tmux/tmux) + [Tmuxinator](https://github.com/tmuxinator/tmuxinator): Combo for my dev environment. Ref: [my-blog](https://ttuan.github.io/tags/#Vim) or [my-dotfiles](https://github.com/ttuan/dotfiles)
 * [fzf](https://github.com/junegunn/fzf) - Command-line fuzzy finder. Ref: [my fzf.zsh](https://github.com/ttuan/dotfiles/blob/master/zsh/fzf.zsh)
-* [autojump](https://github.com/wting/autojump) - Like `cd`, but ez navigate dir from command line
+* ~[autojump](https://github.com/wting/autojump) - Like `cd`, but ez navigate dir from command line~ - I changed to use [z](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/z) (Oh-my-zsh plugin) with `alias j='z'`
 * [hugo](https://github.com/gohugoio/hugo) - Fastest framework for building websites.
 * [yarn](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management.
 * [bat](https://github.com/sharkdp/bat) - A `cat` clone with wings.
