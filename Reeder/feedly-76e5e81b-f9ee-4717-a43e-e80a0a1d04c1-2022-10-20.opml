@@ -6,6 +6,7 @@
     </head>
     <body>
         <outline text="Tech Blogs" title="Tech Blogs">
+            <outline type="rss" text="Vladimir Ivanov Dev Blog" title="Vladimir Ivanov Dev Blog" xmlUrl="https://vvsevolodovich.dev/rss/" htmlUrl="https://vvsevolodovich.dev/"/>
             <outline type="rss" text="Blog Hoc Tap" title="Blog Hoc Tap" xmlUrl="http://bloghoctap.com/feed" htmlUrl="https://www.bloghoctap.com"/>
             <outline type="rss" text="Ruby Pigeon" title="Ruby Pigeon" xmlUrl="https://www.rubypigeon.com/feed.xml" htmlUrl="http://www.rubypigeon.com/"/>
             <outline type="rss" text="EquiValent" title="EquiValent" xmlUrl="https://blog.eq8.eu/feed.xml" htmlUrl="https://blog.eq8.eu/"/>
@@ -22,6 +23,8 @@
             <outline type="rss" text="Ruby on Rails" title="Ruby on Rails" xmlUrl="https://rubyonrails.org/feed.xml" htmlUrl="https://rubyonrails.org/"/>
             <outline type="rss" text="AirBlade Software - Vim" title="AirBlade Software - Vim" xmlUrl="https://airbladesoftware.com/feed.xml" htmlUrl="http://airbladesoftware.com/notes"/>
             <outline type="rss" text="manhhomienbienthuy's space" title="manhhomienbienthuy's space" xmlUrl="https://manhhomienbienthuy.bitbucket.io/feeds/all.atom.xml" htmlUrl="https://manhhomienbienthuy.github.io/"/>
+            <outline type="rss" text="Kislay Verma" title="Kislay Verma" xmlUrl="https://kislayverma.com/feed/" htmlUrl="https://kislayverma.com"/>
+            <outline type="rss" text="Better Dev" title="Better Dev" xmlUrl="https://betterdev.blog/feed/" htmlUrl="https://betterdev.blog/"/>
             <outline type="rss" text="Schneems - Programming Practices, Performance, and Pedantry" title="Schneems - Programming Practices, Performance, and Pedantry" xmlUrl="http://schneems.com/rss" htmlUrl="https://www.schneems.com/"/>
             <outline type="rss" text="CSS Wizardry" title="CSS Wizardry" xmlUrl="http://feeds.feedburner.com/csswizardry" htmlUrl="https://csswizardry.com/"/>
             <outline type="rss" text="Hacker Anonymous Việt Nam" title="Hacker Anonymous Việt Nam" xmlUrl="https://anonymousvn.org/feed" htmlUrl="https://anonymousvn.org"/>
@@ -31,9 +34,11 @@
             <outline type="rss" text="Piotr Murach" title="Piotr Murach" xmlUrl="https://piotrmurach.com/feed.xml" htmlUrl="http://piotrmurach.com/articles"/>
             <outline type="rss" text="Tuan Tran" title="Tuan Tran" xmlUrl="https://ttuan.xyz/feed.xml" htmlUrl="https://ttuan.xyz/"/>
             <outline type="rss" text="Dương Ngọc Thái :D " title="Dương Ngọc Thái :D " xmlUrl="http://feeds.feedburner.com/vnhacker" htmlUrl="http://vnhacker.blogspot.com/"/>
+            <outline type="rss" text="Understand Legacy Code" title="Understand Legacy Code" xmlUrl="https://understandlegacycode.com/rss.xml" htmlUrl="https://understandlegacycode.com"/>
             <outline type="rss" text="Bluz71 - Vim" title="Bluz71 - Vim" xmlUrl="https://bluz71.github.io/feed.xml" htmlUrl="https://bluz71.github.io/"/>
             <outline type="rss" text="Martian Chronicles, Evil Martians’ team blog" title="Martian Chronicles, Evil Martians’ team blog" xmlUrl="https://evilmartians.com/chronicles.atom" htmlUrl="https://evilmartians.com/chronicles"/>
             <outline type="rss" text="Cùi Bắp" title="Cùi Bắp" xmlUrl="https://cuibap.xyz/atom.xml" htmlUrl="https://cuibap.xyz/"/>
+            <outline type="rss" text="LeadDev" title="LeadDev" xmlUrl="https://leaddev.com/content-piece-and-series/rss.xml" htmlUrl="https://leaddev.com/"/>
             <outline type="rss" text="Tender Lovemaking - Ruby Inside" title="Tender Lovemaking - Ruby Inside" xmlUrl="http://tenderlovemaking.com/atom.xml" htmlUrl="http://tenderlovemaking.com/"/>
             <outline type="rss" text="Rubyland" title="Rubyland" xmlUrl="http://rubyland.news/feed.rss" htmlUrl="http://www.rubyland.news"/>
             <outline type="rss" text="RubyFlow" title="RubyFlow" xmlUrl="http://www.rubyflow.com/rss" htmlUrl="https://rubyflow.com"/>
@@ -52,9 +57,14 @@
         </outline>
         <outline text="SRE" title="SRE">
             <outline type="rss" text="High Scalability" title="High Scalability" xmlUrl="http://feeds.feedburner.com/HighScalability" htmlUrl="http://highscalability.com/blog/"/>
+            <outline type="rss" text="The Pragmatic Engineer" title="The Pragmatic Engineer" xmlUrl="http://blog.pragmaticengineer.com/rss/" htmlUrl="https://blog.pragmaticengineer.com/"/>
+            <outline type="rss" text="ByteByteGo Newsletter" title="ByteByteGo Newsletter" xmlUrl="https://blog.bytebytego.com/feed" htmlUrl="https://blog.bytebytego.com"/>
             <outline type="rss" text="Coding For Life" title="Coding For Life" xmlUrl="https://johnroach.io/rss/" htmlUrl="https://www.johnroach.io/"/>
             <outline type="rss" text="Brendan Gregg's Blog" title="Brendan Gregg's Blog" xmlUrl="http://www.brendangregg.com/blog/rss.xml" htmlUrl="http://www.brendangregg.com/blog"/>
+            <outline type="rss" text="Big Technology" title="Big Technology" xmlUrl="https://bigtechnology.substack.com/feed/" htmlUrl="https://bigtechnology.substack.com"/>
+            <outline type="rss" text="TheSequence" title="TheSequence" xmlUrl="https://thesequence.substack.com/feed/" htmlUrl="https://thesequence.substack.com"/>
             <outline type="rss" text="DevOps &amp; SRE" title="DevOps &amp; SRE" xmlUrl="https://cloudblog.withgoogle.com/products/devops-sre/rss/" htmlUrl="https://cloud.google.com/blog/products/devops-sre/"/>
+            <outline type="rss" text="Lenny's Newsletter" title="Lenny's Newsletter" xmlUrl="https://www.lennysnewsletter.com/feed/" htmlUrl="https://www.lennysnewsletter.com"/>
             <outline type="rss" text="SRE WEEKLY" title="SRE WEEKLY" xmlUrl="http://sreweekly.com/feed/" htmlUrl="https://sreweekly.com"/>
         </outline>
     </body>
