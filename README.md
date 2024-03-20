@@ -5,7 +5,7 @@ List applications which I'm using on my Macbook :D
 ### Productivity
 * [Alfred](https://www.alfredapp.com/) - Launcher
 * [Todoist](https://todoist.com/) - Todo Tasks Manager
-* [Notion](https://www.notion.so/) - Notes management
+* ~[Notion](https://www.notion.so/) - Notes management~ - To build second brain, I use [Obsidian](https://obsidian.md/) now.
 * [Karabiner](https://pqrs.org/osx/karabiner/) - Keyboard remapping, use [goku](https://github.com/yqrashawn/GokuRakuJoudo) for configuration
 * [Keyboard Maestro](https://www.keyboardmaestro.com/main/) - Automation tool
 * [Spectacle](https://www.spectacleapp.com/) - Window control
